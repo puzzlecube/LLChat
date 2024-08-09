@@ -1,8 +1,8 @@
 name: LLChat
 main: com.reddit.aroundtheworldmc.LLChat
-version: 3.0.1
+version: 3.0.2
 description: A chat plugin to facilitate language learning on AroundTheWorldMC
-api-version: 1.16
+api-version: 1.21
 database: true
 website: https://www.reddit.com/r/aroundtheworldmc/
 authors: [ Cxom, Puzzlecube and Martionex ]
